@@ -278,7 +278,13 @@ Keep updating...
 44. 2023-USENIX：[PET: Prevent Discovered Errors from Being Triggered in the Linux Kernel](https://www.usenix.org/conference/usenixsecurity23/presentation/wang-zicheng)
 45. 2023-USENIX：[A Hybrid Alias Analysis and Its Application to Global Variable Protection in the Linux Kernel](https://www.usenix.org/conference/usenixsecurity23/presentation/li-guoren)
 
-other resources：
+### others
+1. 2023-USENIX: [Device Tracking via Linux’s New TCP Source Port Selection Algorithm](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.usenix.org/system/files/sec23summer_172-kol-prepub.pdf)
+    * [Demo](https://www.youtube.com/watch?v=pZbfV5nCQsA)
+    * [Talk](https://0xkol.github.io/assets/files/danss-22-device-tracking-via-linux-new-tcp-source-port-selection-algorithm.pdf)
+    * [tool](https://github.com/0xkol/rfc6056-device-tracker)
+
+### resources：
 
 1. [security things in every version of Linux mainline](https://outflux.net/blog/)
 2. [PaX code analysis](https://github.com/hardenedlinux/grsecurity-101-tutorials/tree/master/grsec-code-analysis)
@@ -289,7 +295,7 @@ other resources：
 6. [linux_mitigations](https://github.com/nccgroup/exploit_mitigations/blob/master/linux_mitigations.md)
 7. [The State of Kernel Self Protection-2018](https://outflux.net/slides/2018/lca/kspp.pdf)
 
-### Android
+### android
 
 1. 2020-USEINX：[Automatic Hot Patch Generation for Android Kernels](https://www.usenix.org/conference/usenixsecurity20/presentation/xu)
     * 自动给安卓打补丁 
@@ -352,3 +358,4 @@ other resources：
 [linux-security-papers](https://github.com/akshithg/linux-security-papers)
 [linux-kernel-exploitation](https://github.com/xairy/linux-kernel-exploitation)
 [GoSSIP_Software Security Group](https://securitygossip.com/blog/archives/)
+[Linux Kernel CVEs](https://www.linuxkernelcves.com/)
